@@ -40,3 +40,5 @@ Interests: Data Analytics, Data Science, Healthcare Data, Medical Coder, Digital
 
 I am continuously building projects and improving my analytical skills. 
 This repository will be updated regularly as I complete new projects.
+
+🔗 Project Repository: https://github.com/anitaokechukwu/Python-Project-pages-
