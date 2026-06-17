@@ -16,6 +16,7 @@ This section contains projects focused on:
 - Pandas
 - NumPy
 - Scikit-learn
+- Machine Learning
 - Power BI
 - Matplotlib
 - Seaborn
